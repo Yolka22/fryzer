@@ -12,6 +12,9 @@
     <main>
         <article>
             <h1>Salon fryzerski</h1>
+            <p>
+                changes
+            </p>
             <div class="imageContainer">
                 <img src="./images/obraz2.jpg" />
             </div>
